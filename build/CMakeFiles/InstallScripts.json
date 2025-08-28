@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"E:/project2A/build/cmake_install.cmake",
-		"E:/project2A/build/project2A/cmake_install.cmake",
-		"E:/project2A/build/game/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
