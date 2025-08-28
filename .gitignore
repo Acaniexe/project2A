@@ -1,4 +1,4 @@
-# Ignore build outputs
+ Ignore build outputs
 build/
 *.o
 *.obj
