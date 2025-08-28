@@ -1,0 +1,6 @@
+# ninja log v7
+24	930	7781046860000000	game/CMakeFiles/Game.dir/src/main.cpp.obj	3cd1a429a5b783b1
+15	963	7781046851600000	project2A/CMakeFiles/project2A.dir/src/Engine.cpp.obj	6a0a347cdbaebabd
+963	1128	7781046880000000	project2A/project2A.dll	d70e7a4a1f2ce082
+963	1128	7781046880000000	project2A/libproject2A.dll.a	d70e7a4a1f2ce082
+1128	1291	7781046880000000	game/Game.exe	e87e9bd7793e8924
