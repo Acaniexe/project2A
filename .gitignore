@@ -1,4 +1,30 @@
+# Ignore build outputs
 build/
-Game/
-project2AEngine/
-project2AGame/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.ninja
+
+# IDE/editor files
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Misc
+*.log
+*.user
+*.userprefs
+*.tmp
